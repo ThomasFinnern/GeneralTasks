@@ -1,3 +1,3 @@
-# GeneralTasks
+# Project Links
 
-Private task to do whem time is ready (see issues)
+Collection of files with data and links which may be used in further projects
