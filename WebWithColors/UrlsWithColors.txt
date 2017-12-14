@@ -11,5 +11,5 @@ https://codepen.io/osublake/pen/RLOzxo
 Game of life in three colors Vertical colors
 https://codepen.io/bigsweater/pen/borNym
 
-
-
+Punkte mit Schweif
+https://codepen.io/towc/pen/EbQKmy
